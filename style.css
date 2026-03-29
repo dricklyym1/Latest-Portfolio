@@ -5,8 +5,8 @@ background:linear-gradient(45deg,#000000,#60768a);
 color:white;
 font-size:3vw;
 width: 100%;
-max-width: 1200px;
 
+overflow:hidden
 }
 
 /* NAVBAR */
@@ -80,6 +80,8 @@ display:flex;
 flex-wrap:wrap;
 justify-content:center;
 gap:20px;
+word-wrap: break-word;
+word-break: normal;
 }
 
 .skill{
@@ -87,7 +89,6 @@ background:#1e293b;
 padding:20px;
 border-radius:50px;
 width:150px;
-
 }
 
 
