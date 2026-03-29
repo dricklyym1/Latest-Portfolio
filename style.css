@@ -5,8 +5,7 @@ background:linear-gradient(45deg,#000000,#60768a);
 color:white;
 font-size:3vw;
 width: 100%;
-
-overflow:hidden
+overflow-x: hidden;
 }
 
 /* NAVBAR */
